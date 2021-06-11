@@ -1,0 +1,6 @@
+export default {
+  title: 'Docus Starter',
+  url: 'https://starter.docus.dev',
+  github: 'nuxt/docus-starter',
+  twitter: 'nuxt_js'
+}
